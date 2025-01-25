@@ -28,6 +28,7 @@ A feature-rich job portal where job seekers can browse and apply for jobs, while
 
 ### Frontend
 - **HTML5/CSS3**: Structure and styling.
+- **React**: Structure and styling
 - **JavaScript**: Interactive elements.
 
 ### Backend
